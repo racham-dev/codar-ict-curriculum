@@ -1,6 +1,3 @@
-# codar-ict-curriculum
-Official ICT Essentials curriculum, lesson plans, and slide outlines for Codar Tech Africa.
-
 # Codar Tech Africa – ICT Essentials Curriculum
 
 **Instructor:** Emmanuel Francis  
